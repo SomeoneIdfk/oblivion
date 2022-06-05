@@ -1,2 +1,1 @@
-repeat wait() until game:IsLoaded()
-print("Oblivion hasn't been transfered yet!")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SomeoneIdfk/scripts/main/loader.lua"))();
